@@ -1,0 +1,20 @@
+#hello_world {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+    padding: 100px;
+    color: aqua;
+    text-align: center;
+    font-size: 100px;
+    font-family: monospace;
+
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+body {
+    background-image: url("/files/lake.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
